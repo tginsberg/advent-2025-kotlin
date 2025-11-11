@@ -1,7 +1,5 @@
 ## Advent of Code 2025 Solutions in Kotlin
 
-[![license](https://img.shields.io/github/license/tginsberg/advent-2025-kotlin)]()
-
 This repo contains my solutions to the  [Advent of Code 2025](http://adventofcode.com/2025) set of problems with
 the Kotlin programming language. Each solution is accompanied by blog post.
 
