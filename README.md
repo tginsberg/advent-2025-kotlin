@@ -29,5 +29,6 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 | Day | Title           |                                  Blog Link                                  |                                                   Solution Code                                                    |                Puzzle Text                |
 |-----|:----------------|:---------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
 | 1   | Secret Entrance | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2025/day1/) | [Code](https://github.com/tginsberg/advent-2025-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2025/Day01.kt) | [AoC](http://adventofcode.com/2025/day/1) |
+| 2   | Gift Shop       | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2025/day2/) | [Code](https://github.com/tginsberg/advent-2025-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2025/Day02.kt) | [AoC](http://adventofcode.com/2025/day/2) |
 
 Copyright &copy; 2025 by Todd Ginsberg.
