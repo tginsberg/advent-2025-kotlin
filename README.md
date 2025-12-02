@@ -3,7 +3,7 @@
 This repo contains my solutions to the  [Advent of Code 2025](http://adventofcode.com/2025) set of problems with
 the Kotlin programming language. Each solution is accompanied by blog post.
 
-I did not use AI of any kind while developing these solutions, or the blog posts associated with them. I don't issues 
+I did not use AI of any kind while developing these solutions, or the blog posts associated with them. I don't have issues 
 with AI per se (in fact, I find it quite handy), but I treat Advent of Code as a learning exercise. To quote Eric Wastl, 
 creator of Advent of Code, regarding AI: _"If you send a friend to the gym on your behalf, would you expect to get stronger?"_
 
@@ -26,7 +26,8 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 * 2024 - [GitHub](https://github.com/tginsberg/advent-2024-kotlin/)
   and [Blog Posts](https://todd.ginsberg.com/post/advent-of-code/2024/)
 
-| Day | Title                  |                                  Blog Link                                   |                                                   Solution Code                                                    |                Puzzle Text                 |
-|-----|:-----------------------|:----------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:------------------------------------------:|
+| Day | Title           |                                  Blog Link                                  |                                                   Solution Code                                                    |                Puzzle Text                |
+|-----|:----------------|:---------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
+| 1   | Secret Entrance | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2025/day1/) | [Code](https://github.com/tginsberg/advent-2025-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2025/Day01.kt) | [AoC](http://adventofcode.com/2025/day/1) |
 
 Copyright &copy; 2025 by Todd Ginsberg.
