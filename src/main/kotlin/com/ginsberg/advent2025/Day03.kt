@@ -18,7 +18,7 @@ package com.ginsberg.advent2025
 
 
 /**
- * Advent of Code 2025, Day 3 -
+ * Advent of Code 2025, Day 3 - Lobby
  * Problem Description: http://adventofcode.com/2025/day/3
  * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2025/day3/
  */
