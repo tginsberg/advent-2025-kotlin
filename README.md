@@ -33,5 +33,6 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 | 3   | Lobby               | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2025/day3/) | [Code](https://github.com/tginsberg/advent-2025-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2025/Day03.kt) | [AoC](http://adventofcode.com/2025/day/3) |
 | 4   | Printing Department | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2025/day4/) | [Code](https://github.com/tginsberg/advent-2025-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2025/Day04.kt) | [AoC](http://adventofcode.com/2025/day/4) |
 | 5   | Cafeteria           | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2025/day5/) | [Code](https://github.com/tginsberg/advent-2025-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2025/Day05.kt) | [AoC](http://adventofcode.com/2025/day/5) |
+| 6   | Trash Compactor     | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2025/day6/) | [Code](https://github.com/tginsberg/advent-2025-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2025/Day06.kt) | [AoC](http://adventofcode.com/2025/day/6) |
 
 Copyright &copy; 2025 by Todd Ginsberg.
