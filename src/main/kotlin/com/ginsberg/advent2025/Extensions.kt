@@ -16,6 +16,9 @@
 
 package com.ginsberg.advent2025
 
+import kotlin.math.max
+import kotlin.math.min
+
 fun Iterable<LongRange>.combineRanges(): List<LongRange> =
     buildList {
         this@combineRanges.sortedBy { it.first }
@@ -31,3 +34,9 @@ fun Iterable<LongRange>.combineRanges(): List<LongRange> =
                 }
             }?.let { add(it) }
     }
+
+fun IntRange.overlaps(other: IntRange): Boolean =
+    max(first, other.first) <= min(last, other.last)
+
+fun IntRange.size(): Int =
+    last - first +1
