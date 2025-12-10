@@ -33,11 +33,9 @@ class Day10(input: List<String>) {
         schematic.buttons
             .combinations()
             .sortedBy { it.size }
-            .firstNotNullOf { set ->
-                set.size.takeIf {
-                    set.fold(0) { c, n -> c xor n } == schematic.lights
-                }
-            }
+            .first { set ->
+                set.fold(0) { c, n -> c xor n } == schematic.lights
+            }.size
 
     fun solvePart2(): Long = TODO()
 
