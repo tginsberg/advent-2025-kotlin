@@ -18,6 +18,7 @@ package com.ginsberg.advent2025
 
 import kotlin.math.max
 import kotlin.math.min
+import kotlin.math.pow
 
 fun Iterable<LongRange>.combineRanges(): List<LongRange> =
     buildList {
@@ -40,3 +41,12 @@ fun IntRange.overlaps(other: IntRange): Boolean =
 
 fun IntRange.size(): Int =
     last - first +1
+
+infix fun Int.pow(exp: Int): Int =
+    this.toDouble().pow(exp.toDouble()).toInt()
+
+fun <T> List<T>.combinations(): List<Set<T>> =
+    if (isEmpty()) listOf(emptySet())
+    else drop(1).combinations().let { powerSetRest ->
+        powerSetRest + powerSetRest.map { it + first() }
+    }
