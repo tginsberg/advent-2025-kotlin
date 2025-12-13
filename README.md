@@ -39,5 +39,6 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 | 9   | Movie Theater         | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2025/day9/)  | [Code](https://github.com/tginsberg/advent-2025-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2025/Day09.kt) | [AoC](http://adventofcode.com/2025/day/9)  |
 | 10  | Factory (Part 1 only) |                                     TBD                                      | [Code](https://github.com/tginsberg/advent-2025-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2025/Day10.kt) | [AoC](http://adventofcode.com/2025/day/10) |
 | 11  | Reactor               | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2025/day11/) | [Code](https://github.com/tginsberg/advent-2025-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2025/Day11.kt) | [AoC](http://adventofcode.com/2025/day/11) |
+| 12  | Christmas Tree Farm   | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2025/day12/) | [Code](https://github.com/tginsberg/advent-2025-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2025/Day12.kt) | [AoC](http://adventofcode.com/2025/day/12) |
 
 Copyright &copy; 2025 by Todd Ginsberg.
